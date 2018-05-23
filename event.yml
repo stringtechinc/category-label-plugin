@@ -1,0 +1,2 @@
+front.block.search.product.index.initialize:
+    - [onFrontBlockSearchProductIndexInitialize, NORMAL]
